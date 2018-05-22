@@ -1,0 +1,17 @@
+
+@font-face {
+	font-family: 'Monstrocity';
+	font-style: normal;
+	font-weight: normal;
+	src: url('Monstrocity.ttf');
+}
+
+h1 {
+	font-family: 'Monstrocity';
+	font-weight: 500;
+	font-size: 4em;
+	color: black;
+}
+.page:hover > h1 {
+	color: red;
+}

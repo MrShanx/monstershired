@@ -1,0 +1,73 @@
+//can export more since no - DEFAULT
+export const monsters = [
+	{
+		id: 50364578,
+		name: 'Mon Stur',
+		username: 'Monman',
+		// username: 'Y',
+		email: 'manmon@anima.org',
+	},
+	{
+		id: 820,
+		name: 'Sin Estral',
+		username: 'estralsin',
+		// username: 'O',
+		email: 'tralesin.ro@galaxy.net',
+	},
+	{
+		id: 3204.8031123,
+		name: 'Monsta Douce',
+		username: 'douce',
+		// username: 'U',
+		email: 'douce_trail@drive.stor',
+	},
+	{
+		id: 2.649148,
+		name: 'D Mon',
+		username: 'demimon',
+		// username: 'C',
+		email: 'demimon@death.corps',
+	},
+	{
+		id: 3069748744,
+		name: 'Ry Gnaw',
+		username: 'animalestrom',
+		// username: 'H',
+		email: 'hornedmanica@anima.ca',
+	},
+	{
+		id: 933,
+		name: 'Fe Mon Stur',
+		username: 'femon',
+		// username: 'E',
+		email: 'sturrefee@movee.net',
+	},
+	{
+		id: 100000,
+		name: 'Vig Hornse',
+		username: 'domeminica',
+		// username: 'E',
+		email: 'yello_horn@ter.com',
+	},
+	{
+		id: 19238,
+		name: 'Hull Smazz',
+		username: 'vengence',
+		// username: 'K',
+		email: 'avenuenger@murbell.tv',
+	},
+	{
+		id: 55,
+		name: 'Vike Rhydurr',
+		username: 'vik',
+		// username: 'Y',
+		email: 'rhydurr.gil@anima.net',
+	},
+	{
+		id: 12,
+		name: 'Wan Ponch',
+		username: 'ponchman',
+		// username: '1',
+		email: 'pon.sensay@anima.org',
+	},
+]
