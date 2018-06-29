@@ -37,7 +37,7 @@ class App extends Component {
 		//if REST server request takes a long time to load hundreds of user data
 			//create and mount LOADING... bar
 		return !monsters.length ? //0 = false, !0 = true -> loading header
-		<h1 className='tc dark-red'>Loading...</h1> :
+		<h1 className='tc'>Loading...</h1> :
 		(
 			<div className='page tc'>
 				<h1 className=''>Monsters 4 Hire</h1>
