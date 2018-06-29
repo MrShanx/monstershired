@@ -1,11 +1,17 @@
 
 .Monster-card {
     font-family: 'Nosifer', cursive;
-    font-size: .7em;
+    font-size: .6em;
+    width: 250px;
+    box-shadow: 4px 4px 4px 4px black;
 }
+
 .Monster-card:hover {
-    color: red;
+    color: #E1AB03;
+    border: 5px solid #805515;
+    box-shadow: none;
 }
+
 .speech-bubble {
     font-family: cursive;
     background-color: rgba(0,0,0,0.5);

@@ -3,7 +3,7 @@ import Card from './Card.js';
 
 const CardList = ({ monsters }) => {
 	return (
-		<div>
+		<div className="card-list">
 			{
 				monsters.map((user) => {
 					return (

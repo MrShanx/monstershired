@@ -9,9 +9,16 @@
 h1 {
 	font-family: 'Monstrocity';
 	font-weight: 500;
-	font-size: 4em;
-	color: black;
+	font-size: 3.5em;
+	color: #E1AB03;
 }
-.page:hover > h1 {
-	color: red;
+
+@media(max-width: 500px) {
+	h1 {
+		font-size: 2.8em;
+	}
+}
+
+.card-list {
+	padding: 15px 0;
 }

@@ -29,8 +29,7 @@ class Card extends Component {
 					pa3 
 					ma2 
 					grow 
-					bw2 
-					shadow-5'
+					bw2'
 				onClick={this.monsterClick}
 			>
 				<div className={`${this.state.class1}`}>

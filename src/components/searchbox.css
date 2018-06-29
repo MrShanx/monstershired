@@ -1,3 +1,9 @@
-.pa2:hover > input {
-	border-color: red;
+.pa2 input {
+	border-color: yellow;
+	border-radius: 10px;
+	font-family: cursive;	
+}
+input:focus {
+	border-color: yellow;
+	box-shadow: yellow 0px 0px 15px 0px ;
 }
