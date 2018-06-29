@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .pa2 input {
 	border-color: yellow;
 	border-radius: 10px;
@@ -7,3 +8,9 @@ input:focus {
 	border-color: yellow;
 	box-shadow: yellow 0px 0px 15px 0px ;
 }
+=======
+.pa2:hover > input {
+	border-color: red;
+	box-shadow: red 0px 5px 15px 0px ;
+}
+>>>>>>> e179557ff09479c7545da6de29824f45f1c19aaf
